@@ -11,3 +11,4 @@ public class SonarExample {
         System.out.println("Done");
     }
 }
+
